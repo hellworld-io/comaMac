@@ -1,1 +1,2 @@
-# comaMac
+# Mac Setting Info
+
